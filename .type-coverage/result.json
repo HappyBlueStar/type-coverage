@@ -1,0 +1,131 @@
+{
+  "cache": {
+    "src/tsconfig.ts": {
+      "hash": "f2a57da880ef82f3802357e3e784ab3a11c06dc8",
+      "correctCount": 197,
+      "totalCount": 198,
+      "anys": [
+        {
+          "line": 42,
+          "character": 19,
+          "text": "config"
+        }
+      ]
+    },
+    "src/interfaces.ts": {
+      "hash": "8148a2398fd296027e0685617bbe40552a53975d",
+      "correctCount": 44,
+      "totalCount": 44,
+      "anys": []
+    },
+    "src/checker.ts": {
+      "hash": "fc598a81318c5a6a321b8f481d603b27454b442c",
+      "correctCount": 2634,
+      "totalCount": 2636,
+      "anys": [
+        {
+          "line": 21,
+          "character": 152,
+          "text": "intrinsicName"
+        },
+        {
+          "line": 42,
+          "character": 25,
+          "text": "intrinsicName"
+        }
+      ]
+    },
+    "src/dependencies.ts": {
+      "hash": "0e342763afb3bc5d34b75c26d2e91aeda50451e4",
+      "correctCount": 142,
+      "totalCount": 142,
+      "anys": []
+    },
+    "src/ignore.ts": {
+      "hash": "ba489c29dd2cad7b5375f2819a49b2809bb8779e",
+      "correctCount": 74,
+      "totalCount": 74,
+      "anys": []
+    },
+    "src/cache.ts": {
+      "hash": "8ff65e5859ffb69974319bb63a599a1dbd4f9506",
+      "correctCount": 101,
+      "totalCount": 101,
+      "anys": []
+    },
+    "src/core.ts": {
+      "hash": "eee1df4d1d8684b5595f7c7532f0baaa7d29603d",
+      "correctCount": 221,
+      "totalCount": 221,
+      "anys": []
+    },
+    "src/index.ts": {
+      "hash": "a261a5eaa4bde81f7afce7265526efad8454b32f",
+      "correctCount": 134,
+      "totalCount": 145,
+      "anys": [
+        {
+          "line": 20,
+          "character": 36,
+          "text": "v"
+        },
+        {
+          "line": 20,
+          "character": 46,
+          "text": "version"
+        },
+        {
+          "line": 26,
+          "character": 23,
+          "text": "suppressError"
+        },
+        {
+          "line": 29,
+          "character": 9,
+          "text": "p"
+        },
+        {
+          "line": 29,
+          "character": 19,
+          "text": "project"
+        },
+        {
+          "line": 31,
+          "character": 9,
+          "text": "debug"
+        },
+        {
+          "line": 34,
+          "character": 9,
+          "text": "strict"
+        },
+        {
+          "line": 35,
+          "character": 9,
+          "text": "cache"
+        },
+        {
+          "line": 40,
+          "character": 11,
+          "text": "detail"
+        },
+        {
+          "line": 73,
+          "character": 6,
+          "text": "error"
+        },
+        {
+          "line": 76,
+          "character": 16,
+          "text": "error"
+        }
+      ]
+    },
+    "src/lib.d.ts": {
+      "hash": "fadc7978a4bb193f869db0272ce19e1d20228eb6",
+      "correctCount": 1,
+      "totalCount": 1,
+      "anys": []
+    }
+  }
+}
